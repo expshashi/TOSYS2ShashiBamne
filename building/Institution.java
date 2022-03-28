@@ -21,7 +21,7 @@ class Company extends Institution
 
 }
 
-class KFC extends Institution
+class KFC extends Restaurent
 {
 	
 }
